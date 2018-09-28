@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538094042 source:c:\users\allie\onedrive\desktop\hw3_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
